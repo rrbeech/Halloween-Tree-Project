@@ -1,0 +1,11 @@
+Model Information:
+* title:	Addams Family Mansion
+* source:	https://sketchfab.com/3d-models/addams-family-mansion-5362f8c56cab4962bfe3a2362c667de6
+* author:	Adrian Andreca (https://sketchfab.com/ndreca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Addams Family Mansion" (https://sketchfab.com/3d-models/addams-family-mansion-5362f8c56cab4962bfe3a2362c667de6) by Adrian Andreca (https://sketchfab.com/ndreca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
